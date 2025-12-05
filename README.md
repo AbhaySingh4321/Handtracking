@@ -6,12 +6,12 @@ Prerequisites
 Python 3.8+
 Webcam/Camera device
 
-Setup
-# Clone or download the project
+# Setup
+Clone or download the project
 cd hand-tracking
 # Create virtual environment (recommended)
 python -m venv venv
-# Activate virtual environment
+Activate virtual environment
 # On Windows:
 venv\Scripts\activate
 # On macOS/Linux:
